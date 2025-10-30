@@ -12,3 +12,9 @@ Business Questions:
 
 ### 📈 Dashboard Preview
 ---https://github.com/tionna-jackson/dallas-cowboys-analytics-project/blob/48e330c959a82d2a79c9e313bf390e650a54b554/Screenshot%20(7).png
+
+
+## 👩🏽‍💻 Author
+**Tionna Jackson**  
+Data Analyst | Skilled in SQL, Excel, and PowerBI | Passionate about turning data into stories.  
+📍 Dallas, TX| https://tionnajackson.my.canva.site/copy-of-portfolio-website |
