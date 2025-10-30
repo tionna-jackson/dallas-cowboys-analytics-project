@@ -1,4 +1,4 @@
-# Dallas-Cowboys-Analytics-Project
+# Dallas Cowboys Analytics Project
 Data analysis of the Dallas Cowboys performance, attendance and fan engagement (2015-2024) using R, SQL, Excel and Tableau.  
 Goal: Build an interactive dashboard that shows how game performance relates to attendance, engagement and merchanise sales. 
 Key Focus: Correlate game performance with buisness metrics like attendance and merchandise revenue. 
@@ -11,4 +11,4 @@ Business Questions:
   - How can the team better forecast engagement based on game outcomes?
 
 ### 📈 Dashboard Preview
-
+---https://github.com/tionna-jackson/dallas-cowboys-analytics-project/blob/48e330c959a82d2a79c9e313bf390e650a54b554/Screenshot%20(7).png
