@@ -13,6 +13,8 @@ Business Questions:
 ### 📈 Dashboard Preview
 ---https://github.com/tionna-jackson/dallas-cowboys-analytics-project/blob/48e330c959a82d2a79c9e313bf390e650a54b554/Screenshot%20(7).png
 
+## Interactive Dashboard 
+[View the live Tableau dashboard here](https://public.tableau.com/views/DallasCowboysDashboard_17623220043870/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 👩🏽‍💻 Author
 **Tionna Jackson**  
